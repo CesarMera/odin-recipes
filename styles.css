@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+    background-color: rgb(255, 250, 250);
+}
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}
+
+.list1{
+    font-size: 35px; 
+    text-decoration: none;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display:block;
+    margin: auto;
+    
+}
